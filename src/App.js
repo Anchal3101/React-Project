@@ -7,7 +7,7 @@ import mdata from './component/NetflixData';
 function App() {
   return (
     <div className="App">
-      <h1 className='netflixHeading'>Top 5 Netflix Webseries 2020</h1>
+      <h1 className='netflixHeading'>Top 8 Webseries 2021</h1>
       {mdata.map((val) => {
         return(
           <Card 
