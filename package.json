@@ -1,6 +1,7 @@
 {
+  
+  "homepage": "https://anchal3101.github.io/React-Project",
   "name": "React-Project",
-  "homepage": "https://anchal3101.github.io/React-Project/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
